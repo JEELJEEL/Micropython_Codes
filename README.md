@@ -119,16 +119,5 @@ Automated plant watering system using MicroPython.
 
 ---
 
-## Contribution
-
-Feel free to contribute by creating pull requests or suggesting improvements. This repository is designed to help others learn and grow in the field of MicroPython programming.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Happy coding! 🚀
